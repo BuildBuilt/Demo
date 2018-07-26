@@ -1,0 +1,392 @@
+[
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1532596904903,
+            "changeTime": 1532596904903,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1532596904903,
+            "changeTime": 1532596904903,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1532596904907,
+            "changeTime": 1532596904907,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/applications",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1532596904904,
+            "changeTime": 1532596904904,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/applications/standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1041,
+            "modifiedTime": 1532596904904,
+            "changeTime": 1532596904904,
+            "contentHash": "4e1c555e89ee6ac79ef1d86818bb828285e458c4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1532596904904,
+            "changeTime": 1532596904904,
+            "contentHash": "e52c854d5631eec7468ba4727b4c77eb745f2965",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 352,
+            "modifiedTime": 1532596904906,
+            "changeTime": 1532596904906,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/Demo.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/Demo.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1532596904904,
+            "changeTime": 1532596904904,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/Demo.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/Demo.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1532596904904,
+            "changeTime": 1532596904904,
+            "contentHash": "6d9b42d6b1f8f3acb283690b6b10ea983eb1a0cf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/Demo.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 236,
+            "modifiedTime": 1532596904905,
+            "changeTime": 1532596904905,
+            "contentHash": "e5e7db39d75083e3ba59f046262b4d8fda21dfe5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/Demo.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/Demo.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1532596904905,
+            "changeTime": 1532596904905,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/Demo.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/Demo.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1532596904905,
+            "changeTime": 1532596904905,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/Demo.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/Demo.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1532596904905,
+            "changeTime": 1532596904905,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/DemoController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/DemoController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1532596904905,
+            "changeTime": 1532596904905,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/DemoHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/DemoHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1532596904906,
+            "changeTime": 1532596904906,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/DemoRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/aura/Demo/DemoRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1532596904906,
+            "changeTime": 1532596904906,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1532596904906,
+            "changeTime": 1532596904906,
+            "contentHash": "a1a96b41743564d0d68beaf118bef8b784942b87",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/flexipages/Demo.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/flexipages/Demo.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 466,
+            "modifiedTime": 1532596904906,
+            "changeTime": 1532596904906,
+            "contentHash": "71977dc8bdc013d8a08aeaacd76b82281a2ca2d4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1532596904907,
+            "changeTime": 1532596904907,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17921,
+            "modifiedTime": 1532596904907,
+            "changeTime": 1532596904907,
+            "contentHash": "69670586a912fc9bcc6ef9bc98edf19c49d16361",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4504,
+            "modifiedTime": 1532596904907,
+            "changeTime": 1532596904907,
+            "contentHash": "df448ecf2337f6b1eeb01f3911dd396df1669e6c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4504,
+            "modifiedTime": 1532596904907,
+            "changeTime": 1532596904907,
+            "contentHash": "df448ecf2337f6b1eeb01f3911dd396df1669e6c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4842,
+            "modifiedTime": 1532596904907,
+            "changeTime": 1532596904907,
+            "contentHash": "fac9d4fa512898796d761216f10ab0c782554852",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/tabs",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1532596904907,
+            "changeTime": 1532596904907,
+            "contentHash": "27e8f7b485188049a8ccb6bc0edc3694c6635ab6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/tabs/Demo.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo/force-app/main/default/tabs/Demo.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 309,
+            "modifiedTime": 1532596904908,
+            "changeTime": 1532596904908,
+            "contentHash": "6948684cc641e1be95d361b1574ceb0860290713",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/buildbuilt/Desktop/DX Salesforce/Demo",
+        {
+            "state": "u",
+            "sourcePath": "/Users/buildbuilt/Desktop/DX Salesforce/Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1532596904908,
+            "changeTime": 1532596904908,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
